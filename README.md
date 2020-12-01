@@ -1,9 +1,9 @@
 ### LockDice606
 - 🔭 I’m currently working on getting **ungrounded**
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... My Discord Bot
-- 💬 Ask me about ...
-- 📫 How to reach me: ... <a href="https://discord.gg/">Discord</a> cause Im grounded
+- 🤔 I’m looking for a smart Developer For My Discord Bot
+- 💬 Ask me about ... Anything
+- 📫 How to reach me: ... <a href="https://discord.gg3ttcrK3mA2/">Discord</a> cause Im grounded
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Im a chill person!
 -->
