@@ -1,10 +1,4 @@
 ### Hi there 👋
-
-<!--
-**LockDice606/LockDice606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Your Mom ||jkjk||
 - 🌱 I’m currently learning ... Nothing
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +8,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Im a chill person!
 -->
+
+<!--
+**LockDice606/LockDice606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
