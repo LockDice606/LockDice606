@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Your Mom ||jkjk||
-- 🌱 I’m currently learning ... Nothing
+- 🔭 I’m currently working on getting **ungrounded**
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... My Discord Bot
 - 💬 Ask me about ...
