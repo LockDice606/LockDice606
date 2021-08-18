@@ -1,7 +1,7 @@
 ### LockDice606
-- 🔭 I’m currently working on getting **ungrounded**
+- 🔭 I’m currently working on Castiel Bot
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for a smart Developer For My Discord Bot to make commands for him
+- 🤔 I’m looking for nothing!
 - 💬 Ask me about Anything
 - 📫 How to reach me: <a href="https://discord.gg/3ttcrK3mA2/">Discord</a> cause Im grounded
 - 😄 Pronouns: He/Him
