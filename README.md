@@ -3,7 +3,7 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for nothing!
 - 💬 Ask me about Anything
-- 📫 How to reach me: <a href="https://discord.gg/3ttcrK3mA2/">Discord</a> cause Im grounded
+- 📫 How to reach me: <a href="https://discordapp.com/users/472070268932587522">Discord</a> cause that's how I wanna be reached!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:Im a chill person!🥶
 - 🏀 My Favorite Sport Is Basketball
