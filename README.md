@@ -5,7 +5,7 @@
 - 💬 Ask me about Anything
 - 📫 How to reach me: <a href="https://discordapp.com/users/472070268932587522">Discord</a> cause that's how I wanna be reached!
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact:Im a chill person!🥶
+- ⚡ Fun fact:Im a chill person!
 - 🏀 My Favorite Sport Is Basketball
 -->
 
